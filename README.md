@@ -1,4 +1,4 @@
-# LARGE MAP IMAGE SLICER
+# Map Crop and Tile Slicer
 
 ### Process
 1. Takes a desired tile width and height.
@@ -21,3 +21,6 @@ pip install -r requirements.txt
 2. Define target_w and target_h in main.py
 3. $ python main.py
 ```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
