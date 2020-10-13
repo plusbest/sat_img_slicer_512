@@ -1,4 +1,5 @@
 # Map Crop and Tile Slicer
+Simple script to take a large map image, crops it into sliceable 512x512 tiles and saves each in .png files.
 
 ### Process
 1. Takes a desired tile width and height.
